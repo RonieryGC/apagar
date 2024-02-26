@@ -1,0 +1,30 @@
+Git é diferete de Github
+
+
+comandos do git e sua funcionabilidade:
+
+1° git init
+"usado só na primeira vez no projeto."
+
+2° git add ./
+"seleciona tudo oque você fez de alterações no seu codigo, seja alterações, modficações ou etc."
+
+3° git commit -m "mensagem"
+"usado para dar uma mensagem do oque você alterou no seu codigo"
+
+4° git remote add origin "endereço"
+"usado para dar a informação do repositorio de origem onde vai ir se codigo no github."
+
+"Pode ser utilizado vários repositorios trocando o "origin" no codigo por outro nome, como por exemplo "remote add site" e assim dar o endereço do site."
+"usado só na primeira vez do projeto."
+
+5° git push -u origin <branch>
+							  master
+"usado para acessar o repositorio que vocẽ salvou antes."
+"master caminho normal do github"
+"git branch -M main: seria um segundo caminho no caminho normal"
+
+
+°gitignore:
+
+"colocar na tabela "node_modules""
